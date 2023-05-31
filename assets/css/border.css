@@ -10,3 +10,9 @@
     border-right: solid white;
     padding-right: 10px;
 }
+
+input {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    background-color: rgb(25 26 29 / var(--tw-bg-opacity));
+}
